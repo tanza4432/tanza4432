@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>MrTanner</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanza4432&theme=dracula)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanza4432&theme=dracula&count_private=true&column=7&margin-w=15&margin-h=15)]()
 
 <!--
 **tanza4432/tanza4432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
