@@ -20,11 +20,8 @@
 
 ## Connect with me 🔥
 - <a href="https://www.facebook.com/tossawat12" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="facebook" width="30" height="30"/>
-</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="facebook" width="30" height="30"/></a>&nbsp;  <a href="https://www.instagram.com/tsw.kr/" target="_blank" rel="noreferrer"><img src="https://mesamarket.com/wp-content/uploads/2019/07/Instagram-Circle.png" alt="facebook" width="30" height="30"/></a>
 
-- <a href="https://www.instagram.com/tsw.kr/" target="_blank" rel="noreferrer">
-  <img src="https://mesamarket.com/wp-content/uploads/2019/07/Instagram-Circle.png" alt="facebook" width="30" height="30"/>
 
     
 ## Languages and Tools 🧰
