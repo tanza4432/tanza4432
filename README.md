@@ -1,7 +1,13 @@
-
-[![](https://cutewallpaper.org/25/animated-gif-wallpaper-git/github-9f432-adi1090xbatterywallpaper-c0976-simple-66ec8-bash-7e3ac-script-2e9cf-to-74df9-set-d7477-wallpaper-29008-according---to---battery---percentage---with---charging---animations.gif)](https://github.com/tanza4432/tanza4432)
-
-<img  src="https://cutewallpaper.org/25/animated-gif-wallpaper-git/github-9f432-adi1090xbatterywallpaper-c0976-simple-66ec8-bash-7e3ac-script-2e9cf-to-74df9-set-d7477-wallpaper-29008-according---to---battery---percentage---with---charging---animations.gif" >
+<div  style="background-image: url(https://cutewallpaper.org/25/animated-gif-wallpaper-git/github-9f432-adi1090xbatterywallpaper-c0976-simple-66ec8-bash-7e3ac-script-2e9cf-to-74df9-set-d7477-wallpaper-29008-according---to---battery---percentage---with---charging---animations.gif);width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;" height="200">
+  <p>Zlatibor is a mountain of exceptional beauty whose special geographical properties have made this mountain a real gem of western Serbia.</p>
+</div>
+<div style="">
+<img  src="https://cutewallpaper.org/25/animated-gif-wallpaper-git/github-9f432-adi1090xbatterywallpaper-c0976-simple-66ec8-bash-7e3ac-script-2e9cf-to-74df9-set-d7477-wallpaper-29008-according---to---battery---percentage---with---charging---animations.gif" />
+  </div>
 
 <div align="center">
   
